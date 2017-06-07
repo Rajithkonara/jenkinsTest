@@ -26,7 +26,7 @@ public class Jdeis {
             System.out.println("Connected to Redis");
             System.out.println(jedis.ping());
         } else {
-            System.out.println("Connection Error");
+            System.out.prin("Connection Error");
         }
     }
 
